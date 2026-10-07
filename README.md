@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/c%C3%B3digo-de%20conduta-b3001b?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
-> **Gotham tem leis. Eu tenho as minhas — e todas passam nos testes.**
+> **Problemas são resolvidos. Do meu jeito — e todos passam nos testes.**
 
 ---
 
@@ -119,7 +119,7 @@ Quer trocar ideia sobre back-end, arquitetura ou um projeto? Acende o sinal:
 > *"The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks."*
 > — Mark Zuckerberg
 
-<p align="center"><code>▌ fim do sinal // capuz desligado ▐</code></p>
+<p align="center"><code>▌ i'm out // see you soon! ▐</code></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b3001b,40:5c0000,100:0a0a0a" />
