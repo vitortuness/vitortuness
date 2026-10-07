@@ -1,9 +1,9 @@
 <!-- ============================================================
-     VITOR ANTUNES // perfil de vitortuness
+     RED HOOD // perfil de vitortuness
      ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,60:5c0000,100:b3001b&text=RED%20HOOD%20%2F%2F%20DEV&fontColor=f2f2f2&fontSize=58&fontAlignY=38&desc=back-end%20%C2%B7%20Python%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL&descAlignY=60&descSize=18&animation=fadeIn" alt="Red Hood dev banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,60:5c0000,100:b3001b&text=VITOR%20ANTUNES%20%2F%2F%20DEV&fontColor=f2f2f2&fontSize=50&fontAlignY=38&desc=back-end%20%C2%B7%20Python%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL&descAlignY=60&descSize=18&animation=fadeIn" alt="Red Hood dev banner" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/c%C3%B3digo-de%20conduta-b3001b?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
-> **Problemas são resolvidos. Do meu jeito — e todos passam nos testes.**
+> **Gotham tem leis. Eu tenho as minhas — e todas passam nos testes.**
 
 ---
 
@@ -112,12 +112,14 @@ Quer trocar ideia sobre back-end, arquitetura ou um projeto? Acende o sinal:
 
 <p>
   <a href="https://github.com/vitortuness"><img src="https://img.shields.io/badge/GitHub-vitortuness-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://www.instagram.com/vitorantunes.dev/"><img src="https://img.shields.io/badge/Instagram-vitorantunes.dev-b3001b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://www.youtube.com/@antunesprog"><img src="https://img.shields.io/badge/YouTube-@antunesprog-b3001b?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a" /></a>
 </p>
 
 > *"The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks."*
 > — Mark Zuckerberg
 
-<p align="center"><code>▌ fim do sinal // câmbio, desligo. ▐</code></p>
+<p align="center"><code>▌ fim do sinal // capuz desligado ▐</code></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b3001b,40:5c0000,100:0a0a0a" />
